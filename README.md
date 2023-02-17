@@ -9,5 +9,5 @@ Este repositorio contiene el código para las pruebas de la aplicación en celul
 ## Clonar el repositorio :octocat:
 Para poder clonar el repositorio escriben el siguiente comando en git bash.
 ```git
-$ git clone https://github.com/Jelp200/Lenguajes.git
+$ git clone https://github.com/Jelp200/Mi-mercadito.git
 ```
