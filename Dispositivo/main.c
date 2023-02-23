@@ -6,8 +6,13 @@
 **                      Code::Blocks
 **      Version:        1.00.23
 **      Notas:
-**                      Se creo el archivo para poder realizar las priebas iniciales de
-**                      Mi mercadito.
+**                      Se crearon las primeras pruebas para el ingreso/login del vendedor
+**                      en el sistema base.
+**
+**                      Se incorporaron:
+**                          - Usuario de prueba y contraseña de prueba.
+**                          - Pantalla principal de inicio de sesión y de registro.
+**                          - Menú.
 **      Bugs Fixed:
 **
 ** #########################################################################################
@@ -142,6 +147,7 @@ void Menu(){
                 break;
             case '5':
                 clear();
+
                 break;
             default:
                 puts("\n\t\tDe una opcion correcta.");
